@@ -95,13 +95,13 @@ Model performance is evaluated using:
 
 ## 🚀 How to Run
 
-### 1️⃣ Clone Repository
+### Clone Repository
 
 ```bash
 git clone <your-repo-link>
 cd breast_cancer_project
 
-### 1️⃣ Install dependencies  
+### Install dependencies  
 
 pip install -r requirements.txt
 
@@ -131,6 +131,7 @@ Evaluating classification models properly
 
 
 👨‍💻 Author
-
+Chetan
+Machine Learning Enthusiast
 Chetan Kamani
 Machine Learning Enthusiast
